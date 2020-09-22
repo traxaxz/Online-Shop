@@ -1,0 +1,12 @@
+Hello!
+
+I have made an online shopping  page using jQuery.
+
+The page has a Slider with images, these images are generated using the JSON txt file that you have provided me with.
+
+I have made some modifications to the file so I can include more stuff.
+
+On click the "Details Button",  it will generate elements that will present a Pop up page and there will be a second slider there with all the Details for the given product.
+
+
+I have made my project Using Visual Studio Code and for localhost, I have used a Live Server given from the VSC.   
